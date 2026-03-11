@@ -1,8 +1,6 @@
 # 🎲 Texas Hold'em CLI Poker
 
-┌─────────────────────────────┐  
  │*Ultimate Interactive Poker CLI* │  
-└─────────────────────────────┘
 
 Welcome to **Texas Hold'em CLI**, a fully interactive, realistic, and engaging command-line poker game written in **Java**. Experience the thrill of **multiplayer poker** with AI opponents featuring **unique personalities**, risk strategies, and dynamic decision-making.
 
