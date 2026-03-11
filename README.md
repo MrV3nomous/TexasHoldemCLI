@@ -1,3 +1,12 @@
+████████╗███████╗██╗  ██╗ █████╗ ███████╗
+╚══██╔══╝██╔════╝██║  ██║██╔══██╗██╔════╝
+   ██║   █████╗  ███████║███████║███████╗
+   ██║   ██╔══╝  ██╔══██║██╔══██║╚════██║
+   ██║   ███████╗██║  ██║██║  ██║███████║
+   ╚═╝   ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝
+
+![Build](https://img.shields.io/badge/build-passing-brightgreen) ![Java](https://img.shields.io/badge/Java-17-blue) ![License](https://img.shields.io/badge/license-MIT-green) ![Code size](https://img.shields.io/github/languages/code-size/MrV3nomous/TexasHoldemCLI)
+
 # 🎲 Texas Hold'em CLI Poker
 
  │*Ultimate Interactive Poker CLI* │  
