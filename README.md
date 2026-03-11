@@ -63,21 +63,25 @@ java -cp bin poker.Game
 
 ## 💡 Design Highlights
 
-- AI Logic:
+
+### - AI Logic:
   - Evaluates hand strength, draw potential, and pot pressure.
   - Makes dynamic decisions: fold, call, raise.
   - Individual personality with risk tolerance for realism.
+
  
-- Betting System:
+### - Betting System:
   - Proper small/big blinds, calls, raises, all-in logic.
   - Call amount persists across betting rounds.
   - Ensures smooth turn progression with accurate pot tracking.
 
-- Visual Rendering:
+
+### - Visual Rendering:
   - ASCII-based card display for community and player hands.
   - Folded and all-in states clearly displayed.
 
-- Robust Game Flow:
+
+### - Robust Game Flow:
   - Multiple rounds, pot accumulation, early-win detection, and showdown evaluation.
 
 
@@ -106,14 +110,14 @@ java -cp bin poker.Game
 ---
 
 
-Play, strategize, and dominate the table.
-💥 Every hand is a chance to test your skill against intelligent opponents!
+### Play, strategize, and dominate the table.
+#### 💥 Every hand is a chance to test your skill against intelligent opponents!
 
 
 ---
 
 
-MIT LICENSE ©️ Soumik Halder • 2026
+#### MIT LICENSE ©️ Soumik Halder • 2026
 
 
 
