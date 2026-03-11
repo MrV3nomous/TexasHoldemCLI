@@ -47,7 +47,7 @@ Welcome to **Texas Hold'em CLI**, a fully interactive, realistic, and engaging c
 
 ```bash
 # Clone the repo
-git clone https://github.com/<username>/TexasHoldemCLI.git
+git clone https://github.com/MrV3nomous/TexasHoldemCLI.git
 cd TexasHoldemCLI
 ```
 
@@ -60,7 +60,7 @@ javac -d bin poker/*.java
 ### Run the game
 
 ```bash
-java -cp bin poker.Game
+java -cp ../bin poker.Main
 ```
 
 ---
