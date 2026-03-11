@@ -115,6 +115,7 @@ java -cp bin poker.Game
 ---
 
 **Play, strategize, and dominate the table.**
+
 💥 Every hand is a chance to test your skill against intelligent opponents!
 
 
