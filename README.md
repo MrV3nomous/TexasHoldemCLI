@@ -8,19 +8,25 @@ Welcome to **Texas Hold'em CLI**, a fully interactive, realistic, and engaging c
 
 ## 🃏 Features
 
-- **Realistic Texas Hold’em rules**
+### - **Realistic Texas Hold’em rules**
   - Pre-flop, flop, turn, river, and showdown implemented.
-- **Dynamic AI opponents**
+
+### - **Dynamic AI opponents**
   - Each AI has a **risk tolerance**, plays differently, folds or raises intelligently.
-- **Interactive betting**
+
+### - **Interactive betting**
   - Small blind, big blind, call, raise, fold, all-in mechanics.
   - Realistic pot and call tracking throughout the rounds.
-- **ASCII card visuals**
+
+### - **ASCII card visuals**
   - Hole cards and community cards displayed in **colorful ASCII art**.
-- **Multi-round gameplay**
+
+### - **Multi-round gameplay**
   - Continue rounds seamlessly; chips carry over.
-- **Showdown display**
+
+### - **Showdown display**
   - Community cards revealed with each player’s hand for dramatic effect.
+
 
 ---
 
@@ -109,15 +115,14 @@ java -cp bin poker.Game
 
 ---
 
-
-### Play, strategize, and dominate the table.
-#### 💥 Every hand is a chance to test your skill against intelligent opponents!
+Play, strategize, and dominate the table.
+💥 Every hand is a chance to test your skill against intelligent opponents!
 
 
 ---
 
 
-#### MIT LICENSE ©️ Soumik Halder • 2026
+MIT LICENSE ©️ Soumik Halder • 2026
 
 
 
