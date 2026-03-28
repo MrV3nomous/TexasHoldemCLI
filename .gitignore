@@ -1,0 +1,11 @@
+*.class
+/bin/
+/out/
+/build/
+.idea/
+*.iml
+*.classpath
+*.project
+*.settings/
+.DS_Store
+Thumbs.db
